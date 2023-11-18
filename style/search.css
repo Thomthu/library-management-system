@@ -1,0 +1,47 @@
+body{
+    background-image: url(image/search-background.jpg);
+    background-size:cover;   
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+#navbar{
+    position: sticky;
+    top: 0;
+    background: rgb(46, 120, 230);
+    z-index: 10;
+}
+.bold{
+    font-size: 25px;
+}
+li{ 
+    padding: 2px;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid transparent;
+    color: white;
+    
+}
+.nav-link:hover{
+    border-bottom: 2px solid rgb(255, 255, 255);
+    transition: .1s;
+    color: black;
+}
+#footer{
+    padding-top: 200px;
+    background: rgb(145, 141, 141);
+    
+}
+#copyright{
+    margin-top: 7px;
+}
+.verticalcenter{
+    margin-left:50% ;
+    
+    
+
+}    
+.card-body{
+   text-align: center;
+}
+    

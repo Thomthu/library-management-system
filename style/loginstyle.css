@@ -1,0 +1,56 @@
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin:auto;
+
+    
+}
+.container{
+    top: 50%;
+    left: 50%;
+}
+.login-left{
+    background-image: linear-gradient(rgb(2, 236, 253),rgb(16, 50, 243));
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: 30px;
+}
+.button{
+    text-align: center;
+    box-shadow: rgb(15, 15, 15);
+    
+
+}
+.contact-icon{
+    top:10%;
+    position: absolute;
+        
+}
+h3{
+    text-align: right;
+    font-size: 30px;
+}
+a{
+    color: white;
+     
+}
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none;
+          color: rgb(16, 155, 248); 
+}
+
+
+a:active { text-decoration: none; }
